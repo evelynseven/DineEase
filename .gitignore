@@ -33,3 +33,4 @@ build/
 .vscode/
 
 druid.properties
+.DS_Store
